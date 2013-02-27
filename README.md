@@ -1,0 +1,2 @@
+jboss-modules-dependency-verifier
+=================================
